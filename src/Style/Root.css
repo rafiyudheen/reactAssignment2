@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    position: relative;
+    /* background-color: blueviolet; */
+}
+.rootPage{
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 100%;
+    position: absolute;
+}
+.sideBar{
+    width: 250px;
+    background-color: aqua;
+    /* height: 100%; */
+    /* position: absolute; */
+}
